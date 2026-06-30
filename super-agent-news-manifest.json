@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[bwmarketingworld.com](https://bwmarketingworld.com/60-of-indian-consumers-want-personal-ai-agents-highest-in-asia-pacific-adobe/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)",
+    "[techcouver.com](https://techcouver.com/2026/06/12/vancouver-ai-startup-orchid-brings-the-world-cup-to-your-messages/)"
+  ],
+  "design_plan": "rng(seed=42)->layout=cinematic_centered; AIDA checked; hero max-width 1120px yields 2\u20133 lines; bento+compare grids include grid-auto-flow:dense; labels mention Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast black/white verified",
+  "generated_at": "2026-06-30T02:52:39.368681+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, evidence\u2011based comparison for people evaluating Super and Orchids. Orchids explores messaging\u2011first and experimental automation. Super is built for durable computer\u2011use workflows, with agents that actually operate computers and reuse a computer\u2011use cache so repeated work gets faster and cheaper over time."
+}
